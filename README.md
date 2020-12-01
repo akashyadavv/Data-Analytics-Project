@@ -19,4 +19,10 @@ In order to predict the target variable "WINNER", first we need to select the co
 We will be using Random Forest Classifier to predict the winners of the election. In order to know the optimum number of trees required to predict the result with highest accuracy, we will be plotting the accuracy score for various values of k and will be selecting k value that gives highest accuracy.
 We found the accuracy to be 96.2478 %. 
 
-Run the "Data_sphere_Final.ipynb" file in jupyter notebook(or any other platforms) and dataset "DATA SPHERE ELECTION DATASET.csv" in the respective folder.
+To Run the code:
+
+Download the file "DATA SPHERE ELECTION DATASET.csv"
+
+Download the "Data_sphere_Final.ipynb" file and place it in the same folder as the dataset, then install the required libraries.
+
+Run the Notebook to obtain the result.
