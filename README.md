@@ -1,5 +1,6 @@
 # Data-Analytics-Project
 Course project for the subject Data Analytics(UE18CS312)
+
 Since the .ipynb file is rendered by GitHub, to view all the graphs and analysis click on the "view with nbviewer", which is present on the top right corner of the file.
 
 Election Result Prediction using Random Forest
