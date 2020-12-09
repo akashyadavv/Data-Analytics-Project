@@ -1,6 +1,8 @@
 # Data-Analytics-Project
 Course project for the subject Data Analytics(UE18CS312)
-'''While Viewing the .ipynb file PLEASE click on 'nbviewer' on the top right of file (looks like 'theta' symbol) so that all the plots, graphs and other visualizations are visible completely'''
+
+'''While Viewing the .ipynb file PLEASE click on 'external with nbviewer' on the top right of file (looks like 'theta' symbol) so that all the plots, graphs and other visualizations are completely visible'''
+
 Election Result Prediction using Random Forest
 
 PG_28_DATA SPHERE
